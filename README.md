@@ -56,7 +56,7 @@ A powerful application for generating and manipulating human poses using Google'
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/genai-posegen.git
+git clone https://github.com/DEVELOPER-DEEVEN/YOGA-GUIDE
 cd genai-posegen
 ```
 
@@ -187,8 +187,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Deeven Seru  -  +91 9346352824 - DEEVENSERU11@GMAIL.COM
 
-Project Link: [https://github.com/yourusername/genai-posegen](https://github.com/yourusername/genai-posegen)
+Project Link: [https://github.com/yourusername/genai-posegen](https://github.com/DEVELOPER-DEEVEN/YOGA-GUIDE)
 # YOGA-GUIDE
 # YOGA-GUIDE
